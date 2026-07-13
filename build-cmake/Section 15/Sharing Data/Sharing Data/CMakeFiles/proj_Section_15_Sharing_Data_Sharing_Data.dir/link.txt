@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/link.d CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/Source.cpp.o -o Sharing_Data
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/link.d CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/Source.cpp.o -o Sharing_Data

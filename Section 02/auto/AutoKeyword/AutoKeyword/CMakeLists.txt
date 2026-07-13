@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
 add_executable(proj_Section_02_auto_AutoKeyword_AutoKeyword
   Source.cpp
 )

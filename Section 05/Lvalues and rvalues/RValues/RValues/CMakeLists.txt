@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
 add_executable(proj_Section_05_Lvalues_and_rvalues_RValues_RValues
   Source.cpp
 )

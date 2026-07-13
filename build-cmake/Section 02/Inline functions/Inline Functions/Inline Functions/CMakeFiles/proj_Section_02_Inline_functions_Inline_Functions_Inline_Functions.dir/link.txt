@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/link.d CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/Source.cpp.o -o Inline_Functions
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/link.d CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/Source.cpp.o -o Inline_Functions

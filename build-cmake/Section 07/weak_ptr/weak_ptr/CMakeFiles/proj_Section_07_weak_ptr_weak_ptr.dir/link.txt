@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/link.d CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/Source.cpp.o -o weak_ptr
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/link.d CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/Source.cpp.o -o weak_ptr

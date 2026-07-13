@@ -1,505 +1,505 @@
 [
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/BasicIO/BasicIO",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/BasicIO/BasicIO\" -std=c++17 -o CMakeFiles/proj_Section_02_BasicIO_BasicIO.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/BasicIO/BasicIO/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/BasicIO/BasicIO\" -std=c++17 -o CMakeFiles/proj_Section_02_BasicIO_BasicIO.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/BasicIO/BasicIO/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/BasicIO/BasicIO/Source.cpp",
   "output": "Section 02/BasicIO/BasicIO/CMakeFiles/proj_Section_02_BasicIO_BasicIO.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs\" -std=c++17 -o CMakeFiles/proj_Section_02_Default_Function_Args_DefaultFunctionArgs_DefaultFunctionArgs.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs\" -std=c++17 -o CMakeFiles/proj_Section_02_Default_Function_Args_DefaultFunctionArgs_DefaultFunctionArgs.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs/Source.cpp",
   "output": "Section 02/Default Function Args/DefaultFunctionArgs/DefaultFunctionArgs/CMakeFiles/proj_Section_02_Default_Function_Args_DefaultFunctionArgs_DefaultFunctionArgs.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/First Program/First Program",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/First Program/First Program\" -std=c++17 -o CMakeFiles/proj_Section_02_First_Program_First_Program.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/First Program/First Program/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/First Program/First Program\" -std=c++17 -o CMakeFiles/proj_Section_02_First_Program_First_Program.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/First Program/First Program/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/First Program/First Program/main.cpp",
   "output": "Section 02/First Program/First Program/CMakeFiles/proj_Section_02_First_Program_First_Program.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Function Overloading/Function Overloading/Function Overloading",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Overloading/Function Overloading/Function Overloading\" -std=c++17 -o CMakeFiles/proj_Section_02_Function_Overloading_Function_Overloading_Function_Overloading.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Overloading/Function Overloading/Function Overloading/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Overloading/Function Overloading/Function Overloading\" -std=c++17 -o CMakeFiles/proj_Section_02_Function_Overloading_Function_Overloading_Function_Overloading.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Overloading/Function Overloading/Function Overloading/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Overloading/Function Overloading/Function Overloading/Source.cpp",
   "output": "Section 02/Function Overloading/Function Overloading/Function Overloading/CMakeFiles/proj_Section_02_Function_Overloading_Function_Overloading_Function_Overloading.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Function Pointers/Function Pointer/Function Pointer",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Pointers/Function Pointer/Function Pointer\" -std=c++17 -o CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Pointers/Function Pointer/Function Pointer/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Pointers/Function Pointer/Function Pointer\" -std=c++17 -o CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Pointers/Function Pointer/Function Pointer/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Function Pointers/Function Pointer/Function Pointer/Source.cpp",
   "output": "Section 02/Function Pointers/Function Pointer/Function Pointer/CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Inline functions/Inline Functions/Inline Functions",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Inline functions/Inline Functions/Inline Functions\" -std=c++17 -o CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Inline functions/Inline Functions/Inline Functions/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Inline functions/Inline Functions/Inline Functions\" -std=c++17 -o CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Inline functions/Inline Functions/Inline Functions/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Inline functions/Inline Functions/Inline Functions/Source.cpp",
   "output": "Section 02/Inline functions/Inline Functions/Inline Functions/CMakeFiles/proj_Section_02_Inline_functions_Inline_Functions_Inline_Functions.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Namespace/Namespace/Namespace",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Namespace/Namespace/Namespace\" -std=c++17 -o CMakeFiles/proj_Section_02_Namespace_Namespace_Namespace.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Namespace/Namespace/Namespace/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Namespace/Namespace/Namespace\" -std=c++17 -o CMakeFiles/proj_Section_02_Namespace_Namespace_Namespace.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Namespace/Namespace/Namespace/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Namespace/Namespace/Namespace/Source.cpp",
   "output": "Section 02/Namespace/Namespace/Namespace/CMakeFiles/proj_Section_02_Namespace_Namespace_Namespace.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Pointers/Pointers/Pointers",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Pointers/Pointers/Pointers\" -std=c++17 -o CMakeFiles/proj_Section_02_Pointers_Pointers_Pointers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Pointers/Pointers/Pointers/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Pointers/Pointers/Pointers\" -std=c++17 -o CMakeFiles/proj_Section_02_Pointers_Pointers_Pointers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Pointers/Pointers/Pointers/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Pointers/Pointers/Pointers/Source.cpp",
   "output": "Section 02/Pointers/Pointers/Pointers/CMakeFiles/proj_Section_02_Pointers_Pointers_Pointers.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Range-based for/ForEach/ForEach",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Range-based for/ForEach/ForEach\" -std=c++17 -o CMakeFiles/proj_Section_02_Range-based_for_ForEach_ForEach.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Range-based for/ForEach/ForEach/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Range-based for/ForEach/ForEach\" -std=c++17 -o CMakeFiles/proj_Section_02_Range-based_for_ForEach_ForEach.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Range-based for/ForEach/ForEach/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Range-based for/ForEach/ForEach/Source.cpp",
   "output": "Section 02/Range-based for/ForEach/ForEach/CMakeFiles/proj_Section_02_Range-based_for_ForEach_ForEach.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction\" -std=c++17 -o CMakeFiles/proj_Section_02_Ref_Vs_Ptr_SwapFunction_SwapFunction.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction\" -std=c++17 -o CMakeFiles/proj_Section_02_Ref_Vs_Ptr_SwapFunction_SwapFunction.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Ref Vs Ptr/SwapFunction/SwapFunction/Source.cpp",
   "output": "Section 02/Ref Vs Ptr/SwapFunction/SwapFunction/CMakeFiles/proj_Section_02_Ref_Vs_Ptr_SwapFunction_SwapFunction.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/Reference/Reference/Reference",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Reference/Reference/Reference\" -std=c++17 -o CMakeFiles/proj_Section_02_Reference_Reference_Reference.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Reference/Reference/Reference/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Reference/Reference/Reference\" -std=c++17 -o CMakeFiles/proj_Section_02_Reference_Reference_Reference.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Reference/Reference/Reference/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/Reference/Reference/Reference/Source.cpp",
   "output": "Section 02/Reference/Reference/Reference/CMakeFiles/proj_Section_02_Reference_Reference_Reference.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/auto/AutoKeyword/AutoKeyword",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/auto/AutoKeyword/AutoKeyword\" -std=c++17 -o CMakeFiles/proj_Section_02_auto_AutoKeyword_AutoKeyword.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/auto/AutoKeyword/AutoKeyword/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/auto/AutoKeyword/AutoKeyword\" -std=c++17 -o CMakeFiles/proj_Section_02_auto_AutoKeyword_AutoKeyword.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/auto/AutoKeyword/AutoKeyword/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/auto/AutoKeyword/AutoKeyword/Source.cpp",
   "output": "Section 02/auto/AutoKeyword/AutoKeyword/CMakeFiles/proj_Section_02_auto_AutoKeyword_AutoKeyword.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer\" -std=c++17 -o CMakeFiles/proj_Section_02_const_Qualifier_and_Compound_Types_const_qualifer_const_qualifer.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer\" -std=c++17 -o CMakeFiles/proj_Section_02_const_Qualifier_and_Compound_Types_const_qualifer_const_qualifer.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 02/const Qualifier and Compound Types/const qualifer/const qualifer/Source.cpp",
   "output": "Section 02/const Qualifier and Compound Types/const qualifer/const qualifer/CMakeFiles/proj_Section_02_const_Qualifier_and_Compound_Types_const_qualifer_const_qualifer.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 03/MemMgmtC/MemMgmtC",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 03/MemMgmtC/MemMgmtC\" -std=c++17 -o CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 03/MemMgmtC/MemMgmtC/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 03/MemMgmtC/MemMgmtC\" -std=c++17 -o CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 03/MemMgmtC/MemMgmtC/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 03/MemMgmtC/MemMgmtC/main.cpp",
   "output": "Section 03/MemMgmtC/MemMgmtC/CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Copy Ctor/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/Integer.cpp",
   "output": "Section 04/Copy Ctor/Copy Ctor/CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Copy Ctor/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Copy Ctor/Copy Ctor/main.cpp",
   "output": "Section 04/Copy Ctor/Copy Ctor/CMakeFiles/proj_Section_04_Copy_Ctor_Copy_Ctor.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords\" -std=c++17 -o CMakeFiles/proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords\" -std=c++17 -o CMakeFiles/proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords/main.cpp",
   "output": "Section 04/Default and Deleted Functions/New Class Keywords/New Class Keywords/CMakeFiles/proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Lvalues and rvalues/RValues/RValues",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Lvalues and rvalues/RValues/RValues\" -std=c++17 -o CMakeFiles/proj_Section_04_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Lvalues and rvalues/RValues/RValues/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Lvalues and rvalues/RValues/RValues\" -std=c++17 -o CMakeFiles/proj_Section_04_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Lvalues and rvalues/RValues/RValues/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Lvalues and rvalues/RValues/RValues/Source.cpp",
   "output": "Section 04/Lvalues and rvalues/RValues/RValues/CMakeFiles/proj_Section_04_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp",
   "output": "Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp",
   "output": "Section 04/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/CMakeFiles/proj_Section_04_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/RuleofFive/RuleofFive",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/Integer.cpp",
   "output": "Section 04/RuleofFive/RuleofFive/CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/RuleofFive/RuleofFive",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/RuleofFive/RuleofFive/main.cpp",
   "output": "Section 04/RuleofFive/RuleofFive/CMakeFiles/proj_Section_04_RuleofFive_RuleofFive.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Static/Car Abstraction/Car Abstraction",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction\" -std=c++17 -o CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/Car.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/Car.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction\" -std=c++17 -o CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/Car.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/Car.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/Car.cpp",
   "output": "Section 04/Static/Car Abstraction/Car Abstraction/CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/Car.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/Static/Car Abstraction/Car Abstraction",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction\" -std=c++17 -o CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction\" -std=c++17 -o CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/Static/Car Abstraction/Car Abstraction/main.cpp",
   "output": "Section 04/Static/Car Abstraction/Car Abstraction/CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/class/Car/Car",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car\" -std=c++17 -o CMakeFiles/proj_Section_04_class_Car_Car.dir/Car.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/Car.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car\" -std=c++17 -o CMakeFiles/proj_Section_04_class_Car_Car.dir/Car.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/Car.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/Car.cpp",
   "output": "Section 04/class/Car/Car/CMakeFiles/proj_Section_04_class_Car_Car.dir/Car.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/class/Car/Car",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car\" -std=c++17 -o CMakeFiles/proj_Section_04_class_Car_Car.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car\" -std=c++17 -o CMakeFiles/proj_Section_04_class_Car_Car.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/class/Car/Car/main.cpp",
   "output": "Section 04/class/Car/Car/CMakeFiles/proj_Section_04_class_Car_Car.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 04/structure/Structure/Structure",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/structure/Structure/Structure\" -std=c++17 -o CMakeFiles/proj_Section_04_structure_Structure_Structure.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/structure/Structure/Structure/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/structure/Structure/Structure\" -std=c++17 -o CMakeFiles/proj_Section_04_structure_Structure_Structure.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/structure/Structure/Structure/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 04/structure/Structure/Structure/Source.cpp",
   "output": "Section 04/structure/Structure/Structure/CMakeFiles/proj_Section_04_structure_Structure_Structure.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 05/Lvalues and rvalues/RValues/RValues",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Lvalues and rvalues/RValues/RValues\" -std=c++17 -o CMakeFiles/proj_Section_05_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Lvalues and rvalues/RValues/RValues/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Lvalues and rvalues/RValues/RValues\" -std=c++17 -o CMakeFiles/proj_Section_05_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Lvalues and rvalues/RValues/RValues/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Lvalues and rvalues/RValues/RValues/Source.cpp",
   "output": "Section 05/Lvalues and rvalues/RValues/RValues/CMakeFiles/proj_Section_05_Lvalues_and_rvalues_RValues_RValues.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/Integer.cpp",
   "output": "Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/main.cpp",
   "output": "Section 05/Move Semantics Impl/Copy Ctor - Complete/Copy Ctor/CMakeFiles/proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 05/RuleofFive/RuleofFive",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/Integer.cpp",
   "output": "Section 05/RuleofFive/RuleofFive/CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 05/RuleofFive/RuleofFive",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive\" -std=c++17 -o CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 05/RuleofFive/RuleofFive/main.cpp",
   "output": "Section 05/RuleofFive/RuleofFive/CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 06/Operator Overloading/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/Integer.cpp",
   "output": "Section 06/Operator Overloading/Copy Ctor/CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 06/Operator Overloading/Copy Ctor",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor\" -std=c++17 -o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/Operator Overloading/Copy Ctor/main.cpp",
   "output": "Section 06/Operator Overloading/Copy Ctor/CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 06/UserDefConversions/UserDefConversions",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions\" -std=c++17 -o CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions\" -std=c++17 -o CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/Integer.cpp",
   "output": "Section 06/UserDefConversions/UserDefConversions/CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 06/UserDefConversions/UserDefConversions",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions\" -std=c++17 -o CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions\" -std=c++17 -o CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 06/UserDefConversions/UserDefConversions/main.cpp",
   "output": "Section 06/UserDefConversions/UserDefConversions/CMakeFiles/proj_Section_06_UserDefConversions_UserDefConversions.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/CircularRef/CircularRef",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/CircularRef/CircularRef\" -std=c++17 -o CMakeFiles/proj_Section_07_CircularRef_CircularRef.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/CircularRef/CircularRef/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/CircularRef/CircularRef\" -std=c++17 -o CMakeFiles/proj_Section_07_CircularRef_CircularRef.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/CircularRef/CircularRef/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/CircularRef/CircularRef/Source.cpp",
   "output": "Section 07/CircularRef/CircularRef/CMakeFiles/proj_Section_07_CircularRef_CircularRef.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/More Features/More Features",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/More Features/More Features\" -std=c++17 -o CMakeFiles/proj_Section_07_More_Features_More_Features.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/More Features/More Features/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/More Features/More Features\" -std=c++17 -o CMakeFiles/proj_Section_07_More_Features_More_Features.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/More Features/More Features/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/More Features/More Features/Source.cpp",
   "output": "Section 07/More Features/More Features/CMakeFiles/proj_Section_07_More_Features_More_Features.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/shared_ptr/shared_ptr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Integer.cpp",
   "output": "Section 07/shared_ptr/shared_ptr/CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/shared_ptr/shared_ptr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/shared_ptr/shared_ptr/Source.cpp",
   "output": "Section 07/shared_ptr/shared_ptr/CMakeFiles/proj_Section_07_shared_ptr_shared_ptr.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/unique_ptr/unique_ptr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Integer.cpp",
   "output": "Section 07/unique_ptr/unique_ptr/CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/unique_ptr/unique_ptr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/unique_ptr/unique_ptr/Source.cpp",
   "output": "Section 07/unique_ptr/unique_ptr/CMakeFiles/proj_Section_07_unique_ptr_unique_ptr.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 07/weak_ptr/weak_ptr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/weak_ptr/weak_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/weak_ptr/weak_ptr/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/weak_ptr/weak_ptr\" -std=c++17 -o CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/weak_ptr/weak_ptr/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 07/weak_ptr/weak_ptr/Source.cpp",
   "output": "Section 07/weak_ptr/weak_ptr/CMakeFiles/proj_Section_07_weak_ptr_weak_ptr.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/StringStreams/StringStreams",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/StringStreams/StringStreams\" -std=c++17 -o CMakeFiles/proj_Section_08_StringStreams_StringStreams.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/StringStreams/StringStreams/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/StringStreams/StringStreams\" -std=c++17 -o CMakeFiles/proj_Section_08_StringStreams_StringStreams.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/StringStreams/StringStreams/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/StringStreams/StringStreams/Source.cpp",
   "output": "Section 08/StringStreams/StringStreams/CMakeFiles/proj_Section_08_StringStreams_StringStreams.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Strings/Strings",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Strings/Strings\" -std=c++17 -o CMakeFiles/proj_Section_08_Strings_Strings.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Strings/Strings/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Strings/Strings\" -std=c++17 -o CMakeFiles/proj_Section_08_Strings_Strings.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Strings/Strings/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Strings/Strings/Source.cpp",
   "output": "Section 08/Strings/Strings/CMakeFiles/proj_Section_08_Strings_Strings.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/UserDefinedLiterals/UserDefinedLiterals",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/UserDefinedLiterals/UserDefinedLiterals\" -std=c++17 -o CMakeFiles/proj_Section_08_UserDefinedLiterals_UserDefinedLiterals.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/UserDefinedLiterals/UserDefinedLiterals/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/UserDefinedLiterals/UserDefinedLiterals\" -std=c++17 -o CMakeFiles/proj_Section_08_UserDefinedLiterals_UserDefinedLiterals.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/UserDefinedLiterals/UserDefinedLiterals/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/UserDefinedLiterals/UserDefinedLiterals/Source.cpp",
   "output": "Section 08/UserDefinedLiterals/UserDefinedLiterals/CMakeFiles/proj_Section_08_UserDefinedLiterals_UserDefinedLiterals.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector\" -std=c++17 -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector\" -std=c++17 -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp",
   "output": "Section 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/constexpr/constexpr/constexpr",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/constexpr/constexpr/constexpr\" -std=c++17 -o CMakeFiles/proj_Section_08_constexpr_constexpr_constexpr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/constexpr/constexpr/constexpr/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/constexpr/constexpr/constexpr\" -std=c++17 -o CMakeFiles/proj_Section_08_constexpr_constexpr_constexpr.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/constexpr/constexpr/constexpr/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/constexpr/constexpr/constexpr/Source.cpp",
   "output": "Section 08/constexpr/constexpr/constexpr/CMakeFiles/proj_Section_08_constexpr_constexpr_constexpr.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/enums/enums",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/enums/enums\" -std=c++17 -o CMakeFiles/proj_Section_08_enums_enums.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/enums/enums/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/enums/enums\" -std=c++17 -o CMakeFiles/proj_Section_08_enums_enums.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/enums/enums/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/enums/enums/Source.cpp",
   "output": "Section 08/enums/enums/CMakeFiles/proj_Section_08_enums_enums.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/initializer_list/InitializerList/InitializerList",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/initializer_list/InitializerList/InitializerList\" -std=c++17 -o CMakeFiles/proj_Section_08_initializer_list_InitializerList_InitializerList.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/initializer_list/InitializerList/InitializerList/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/initializer_list/InitializerList/InitializerList\" -std=c++17 -o CMakeFiles/proj_Section_08_initializer_list_InitializerList_InitializerList.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/initializer_list/InitializerList/InitializerList/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/initializer_list/InitializerList/InitializerList/Source.cpp",
   "output": "Section 08/initializer_list/InitializerList/InitializerList/CMakeFiles/proj_Section_08_initializer_list_InitializerList_InitializerList.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 09/Account/Account",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Account.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Account.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Account.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Account.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Account.cpp",
   "output": "Section 09/Account/Account/CMakeFiles/proj_Section_09_Account_Account.dir/Account.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 09/Account/Account",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Checking.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Checking.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Checking.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Checking.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Checking.cpp",
   "output": "Section 09/Account/Account/CMakeFiles/proj_Section_09_Account_Account.dir/Checking.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 09/Account/Account",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Savings.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Savings.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Savings.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Savings.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Savings.cpp",
   "output": "Section 09/Account/Account/CMakeFiles/proj_Section_09_Account_Account.dir/Savings.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 09/Account/Account",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Transaction.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Transaction.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/Transaction.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Transaction.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/Transaction.cpp",
   "output": "Section 09/Account/Account/CMakeFiles/proj_Section_09_Account_Account.dir/Transaction.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 09/Account/Account",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account\" -std=c++17 -o CMakeFiles/proj_Section_09_Account_Account.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 09/Account/Account/main.cpp",
   "output": "Section 09/Account/Account/CMakeFiles/proj_Section_09_Account_Account.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept\" -std=c++17 -o CMakeFiles/proj_Section_10_ExceptionHandling-noexcept_ExceptionHandling-noexcept.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept\" -std=c++17 -o CMakeFiles/proj_Section_10_ExceptionHandling-noexcept_ExceptionHandling-noexcept.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept/Source.cpp",
   "output": "Section 10/ExceptionHandling-noexcept/ExceptionHandling-noexcept/CMakeFiles/proj_Section_10_ExceptionHandling-noexcept_ExceptionHandling-noexcept.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII\" -std=c++17 -o CMakeFiles/proj_Section_10_Exceptions_in_ctors_ExceptionHandlingII_ExceptionHandlingII.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII\" -std=c++17 -o CMakeFiles/proj_Section_10_Exceptions_in_ctors_ExceptionHandlingII_ExceptionHandlingII.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII/Source.cpp",
   "output": "Section 10/Exceptions in ctors/ExceptionHandlingII/ExceptionHandlingII/CMakeFiles/proj_Section_10_Exceptions_in_ctors_ExceptionHandlingII_ExceptionHandlingII.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 10/Nested Exceptions/Exception Handling/Exception Handling",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Nested Exceptions/Exception Handling/Exception Handling\" -std=c++17 -o CMakeFiles/proj_Section_10_Nested_Exceptions_Exception_Handling_Exception_Handling.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Nested Exceptions/Exception Handling/Exception Handling/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Nested Exceptions/Exception Handling/Exception Handling\" -std=c++17 -o CMakeFiles/proj_Section_10_Nested_Exceptions_Exception_Handling_Exception_Handling.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Nested Exceptions/Exception Handling/Exception Handling/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 10/Nested Exceptions/Exception Handling/Exception Handling/Source.cpp",
   "output": "Section 10/Nested Exceptions/Exception Handling/Exception Handling/CMakeFiles/proj_Section_10_Nested_Exceptions_Exception_Handling_Exception_Handling.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles\" -std=c++17 -o CMakeFiles/proj_Section_11_Binary_Files_FileIO-BinaryFiles_FileIO-BinaryFiles.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles\" -std=c++17 -o CMakeFiles/proj_Section_11_Binary_Files_FileIO-BinaryFiles_FileIO-BinaryFiles.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles/Source.cpp",
   "output": "Section 11/Binary Files/FileIO-BinaryFiles/FileIO-BinaryFiles/CMakeFiles/proj_Section_11_Binary_Files_FileIO-BinaryFiles_FileIO-BinaryFiles.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 11/Error Handling/File IO/File IO",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Error Handling/File IO/File IO\" -std=c++17 -o CMakeFiles/proj_Section_11_Error_Handling_File_IO_File_IO.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Error Handling/File IO/File IO/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Error Handling/File IO/File IO\" -std=c++17 -o CMakeFiles/proj_Section_11_Error_Handling_File_IO_File_IO.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Error Handling/File IO/File IO/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 11/Error Handling/File IO/File IO/Source.cpp",
   "output": "Section 11/Error Handling/File IO/File IO/CMakeFiles/proj_Section_11_Error_Handling_File_IO_File_IO.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Aliases/Aliases/Aliases",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Aliases/Aliases/Aliases\" -std=c++17 -o CMakeFiles/proj_Section_12_Aliases_Aliases_Aliases.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Aliases/Aliases/Aliases/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Aliases/Aliases/Aliases\" -std=c++17 -o CMakeFiles/proj_Section_12_Aliases_Aliases_Aliases.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Aliases/Aliases/Aliases/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Aliases/Aliases/Aliases/Source.cpp",
   "output": "Section 12/Aliases/Aliases/Aliases/CMakeFiles/proj_Section_12_Aliases_Aliases_Aliases.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics\" -std=c++17 -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics\" -std=c++17 -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp",
   "output": "Section 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization\" -std=c++17 -o CMakeFiles/proj_Section_12_Class_Exp_Spec_-_II_Class_Template_ExSpecialization_Class_Template_ExSpecialization.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization\" -std=c++17 -o CMakeFiles/proj_Section_12_Class_Exp_Spec_-_II_Class_Template_ExSpecialization_Class_Template_ExSpecialization.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization/Source.cpp",
   "output": "Section 12/Class Exp Spec - II/Class Template ExSpecialization/Class Template ExSpecialization/CMakeFiles/proj_Section_12_Class_Exp_Spec_-_II_Class_Template_ExSpecialization_Class_Template_ExSpecialization.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Class Templates/Class Templates/Class Templates",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Templates/Class Templates/Class Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Class_Templates_Class_Templates_Class_Templates.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Templates/Class Templates/Class Templates/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Templates/Class Templates/Class Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Class_Templates_Class_Templates_Class_Templates.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Templates/Class Templates/Class Templates/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Class Templates/Class Templates/Class Templates/Source.cpp",
   "output": "Section 12/Class Templates/Class Templates/Class Templates/CMakeFiles/proj_Section_12_Class_Templates_Class_Templates_Class_Templates.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin\" -std=c++17 -o CMakeFiles/proj_Section_12_Partial_Spec_Class_Template_ParSpecializatoin_Class_Template_ParSpecializatoin.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin\" -std=c++17 -o CMakeFiles/proj_Section_12_Partial_Spec_Class_Template_ParSpecializatoin_Class_Template_ParSpecializatoin.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin/Source.cpp",
   "output": "Section 12/Partial Spec/Class Template ParSpecializatoin/Class Template ParSpecializatoin/CMakeFiles/proj_Section_12_Partial_Spec_Class_Template_ParSpecializatoin_Class_Template_ParSpecializatoin.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding\" -std=c++17 -o CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding\" -std=c++17 -o CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/Integer.cpp",
   "output": "Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding\" -std=c++17 -o CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding\" -std=c++17 -o CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/main.cpp",
   "output": "Section 12/Perfect Forwarding - II/Perfect forwarding/Perfect forwarding/CMakeFiles/proj_Section_12_Perfect_Forwarding_-_II_Perfect_forwarding_Perfect_forwarding.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Integer.cpp",
   "output": "Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates\" -std=c++17 -o CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/Source.cpp",
   "output": "Section 12/Variadic Templates - II/Variadic Templates/Variadic Templates/CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 13/Capture List/CaptureList/CaptureList",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Capture List/CaptureList/CaptureList\" -std=c++17 -o CMakeFiles/proj_Section_13_Capture_List_CaptureList_CaptureList.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Capture List/CaptureList/CaptureList/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Capture List/CaptureList/CaptureList\" -std=c++17 -o CMakeFiles/proj_Section_13_Capture_List_CaptureList_CaptureList.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Capture List/CaptureList/CaptureList/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Capture List/CaptureList/CaptureList/Source.cpp",
   "output": "Section 13/Capture List/CaptureList/CaptureList/CMakeFiles/proj_Section_13_Capture_List_CaptureList_CaptureList.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 13/Function Objects/Function Objects/Function Objects",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Function Objects/Function Objects/Function Objects\" -std=c++17 -o CMakeFiles/proj_Section_13_Function_Objects_Function_Objects_Function_Objects.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Function Objects/Function Objects/Function Objects/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Function Objects/Function Objects/Function Objects\" -std=c++17 -o CMakeFiles/proj_Section_13_Function_Objects_Function_Objects_Function_Objects.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Function Objects/Function Objects/Function Objects/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Function Objects/Function Objects/Function Objects/Source.cpp",
   "output": "Section 13/Function Objects/Function Objects/Function Objects/CMakeFiles/proj_Section_13_Function_Objects_Function_Objects_Function_Objects.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 13/Lambda Basics/Lambda Basics/Lambda Basics",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Lambda Basics/Lambda Basics/Lambda Basics\" -std=c++17 -o CMakeFiles/proj_Section_13_Lambda_Basics_Lambda_Basics_Lambda_Basics.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Lambda Basics/Lambda Basics/Lambda Basics/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Lambda Basics/Lambda Basics/Lambda Basics\" -std=c++17 -o CMakeFiles/proj_Section_13_Lambda_Basics_Lambda_Basics_Lambda_Basics.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Lambda Basics/Lambda Basics/Lambda Basics/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 13/Lambda Basics/Lambda Basics/Lambda Basics/Source.cpp",
   "output": "Section 13/Lambda Basics/Lambda Basics/Lambda Basics/CMakeFiles/proj_Section_13_Lambda_Basics_Lambda_Basics_Lambda_Basics.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/Algorithms/Algorithms",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/Algorithms/Algorithms\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_Algorithms_Algorithms.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/Algorithms/Algorithms/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/Algorithms/Algorithms\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_Algorithms_Algorithms.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/Algorithms/Algorithms/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/Algorithms/Algorithms/Source.cpp",
   "output": "Section 14/STL/Algorithms/Algorithms/CMakeFiles/proj_Section_14_STL_Algorithms_Algorithms.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/AssociativeContainers/AssociativeContainers",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/AssociativeContainers/AssociativeContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_AssociativeContainers_AssociativeContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/AssociativeContainers/AssociativeContainers/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/AssociativeContainers/AssociativeContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_AssociativeContainers_AssociativeContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/AssociativeContainers/AssociativeContainers/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/AssociativeContainers/AssociativeContainers/Source.cpp",
   "output": "Section 14/STL/AssociativeContainers/AssociativeContainers/CMakeFiles/proj_Section_14_STL_AssociativeContainers_AssociativeContainers.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/ContainerChanges/ContainerChanges",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/Integer.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/Integer.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/Integer.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/Integer.cpp",
   "output": "Section 14/STL/ContainerChanges/ContainerChanges/CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/Integer.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/ContainerChanges/ContainerChanges",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/ContainerChanges/ContainerChanges/main.cpp",
   "output": "Section 14/STL/ContainerChanges/ContainerChanges/CMakeFiles/proj_Section_14_STL_ContainerChanges_ContainerChanges.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/SequenceContainers/SequenceContainers",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/SequenceContainers/SequenceContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_SequenceContainers_SequenceContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/SequenceContainers/SequenceContainers/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/SequenceContainers/SequenceContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_SequenceContainers_SequenceContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/SequenceContainers/SequenceContainers/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/SequenceContainers/SequenceContainers/Source.cpp",
   "output": "Section 14/STL/SequenceContainers/SequenceContainers/CMakeFiles/proj_Section_14_STL_SequenceContainers_SequenceContainers.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 14/STL/UnorderedContainers/UnorderedContainers",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/UnorderedContainers/UnorderedContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_UnorderedContainers_UnorderedContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/UnorderedContainers/UnorderedContainers/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/UnorderedContainers/UnorderedContainers\" -std=c++17 -o CMakeFiles/proj_Section_14_STL_UnorderedContainers_UnorderedContainers.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/UnorderedContainers/UnorderedContainers/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 14/STL/UnorderedContainers/UnorderedContainers/Source.cpp",
   "output": "Section 14/STL/UnorderedContainers/UnorderedContainers/CMakeFiles/proj_Section_14_STL_UnorderedContainers_UnorderedContainers.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/Async/Async",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async\" -std=c++17 -o CMakeFiles/proj_Section_15_Async_Async.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async\" -std=c++17 -o CMakeFiles/proj_Section_15_Async_Async.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/Source.cpp",
   "output": "Section 15/Async/Async/CMakeFiles/proj_Section_15_Async_Async.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/Async/Async",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async\" -std=c++17 -o CMakeFiles/proj_Section_15_Async_Async.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/main.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async\" -std=c++17 -o CMakeFiles/proj_Section_15_Async_Async.dir/main.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/main.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Async/Async/main.cpp",
   "output": "Section 15/Async/Async/CMakeFiles/proj_Section_15_Async_Async.dir/main.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/PromiseFuture/PromiseFuture",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/PromiseFuture/PromiseFuture\" -std=c++17 -o CMakeFiles/proj_Section_15_PromiseFuture_PromiseFuture.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/PromiseFuture/PromiseFuture/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/PromiseFuture/PromiseFuture\" -std=c++17 -o CMakeFiles/proj_Section_15_PromiseFuture_PromiseFuture.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/PromiseFuture/PromiseFuture/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/PromiseFuture/PromiseFuture/Source.cpp",
   "output": "Section 15/PromiseFuture/PromiseFuture/CMakeFiles/proj_Section_15_PromiseFuture_PromiseFuture.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/Sharing Data/Sharing Data",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Sharing Data/Sharing Data\" -std=c++17 -o CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Sharing Data/Sharing Data/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Sharing Data/Sharing Data\" -std=c++17 -o CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Sharing Data/Sharing Data/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Sharing Data/Sharing Data/Source.cpp",
   "output": "Section 15/Sharing Data/Sharing Data/CMakeFiles/proj_Section_15_Sharing_Data_Sharing_Data.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/ThreadClass/ThreadClass",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/ThreadClass/ThreadClass\" -std=c++17 -o CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/ThreadClass/ThreadClass/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/ThreadClass/ThreadClass\" -std=c++17 -o CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/ThreadClass/ThreadClass/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/ThreadClass/ThreadClass/Source.cpp",
   "output": "Section 15/ThreadClass/ThreadClass/CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/Source.cpp.o"
 },
 {
   "directory": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 15/Threads/Threads",
-  "command": "/usr/bin/g++-14  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Threads/Threads\" -std=c++17 -o CMakeFiles/proj_Section_15_Threads_Threads.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Threads/Threads/Source.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Threads/Threads\" -std=c++17 -o CMakeFiles/proj_Section_15_Threads_Threads.dir/Source.cpp.o -c \"/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Threads/Threads/Source.cpp\"",
   "file": "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 15/Threads/Threads/Source.cpp",
   "output": "Section 15/Threads/Threads/CMakeFiles/proj_Section_15_Threads_Threads.dir/Source.cpp.o"
 }

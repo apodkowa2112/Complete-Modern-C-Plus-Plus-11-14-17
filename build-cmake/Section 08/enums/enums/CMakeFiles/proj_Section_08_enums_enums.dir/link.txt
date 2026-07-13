@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_08_enums_enums.dir/link.d CMakeFiles/proj_Section_08_enums_enums.dir/Source.cpp.o -o enums
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_08_enums_enums.dir/link.d CMakeFiles/proj_Section_08_enums_enums.dir/Source.cpp.o -o enums

@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/link.d CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/Source.cpp.o -o Function_Pointer
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/link.d CMakeFiles/proj_Section_02_Function_Pointers_Function_Pointer_Function_Pointer.dir/Source.cpp.o -o Function_Pointer

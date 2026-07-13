@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
       add_executable(proj_Section_05_Move_Semantics_Impl_Copy_Ctor_-_Complete_Copy_Ctor
         Integer.cpp
 main.cpp

@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
 add_executable(proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords
   main.cpp
 )

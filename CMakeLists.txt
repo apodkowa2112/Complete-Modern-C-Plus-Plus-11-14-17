@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
       cmake_minimum_required(VERSION 3.16)
       project(ModernCppTutorials LANGUAGES CXX)
 

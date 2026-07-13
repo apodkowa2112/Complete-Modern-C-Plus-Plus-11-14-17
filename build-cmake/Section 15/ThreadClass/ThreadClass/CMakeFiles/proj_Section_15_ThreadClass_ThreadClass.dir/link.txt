@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/link.d CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/Source.cpp.o -o ThreadClass
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/link.d CMakeFiles/proj_Section_15_ThreadClass_ThreadClass.dir/Source.cpp.o -o ThreadClass

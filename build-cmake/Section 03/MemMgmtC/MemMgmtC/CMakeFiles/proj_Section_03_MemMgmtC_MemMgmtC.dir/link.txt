@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/link.d CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/main.cpp.o -o MemMgmtC
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/link.d CMakeFiles/proj_Section_03_MemMgmtC_MemMgmtC.dir/main.cpp.o -o MemMgmtC

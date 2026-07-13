@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/link.d CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/Integer.cpp.o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/main.cpp.o -o Copy_Ctor
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/link.d CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/Integer.cpp.o CMakeFiles/proj_Section_06_Operator_Overloading_Copy_Ctor.dir/main.cpp.o -o Copy_Ctor

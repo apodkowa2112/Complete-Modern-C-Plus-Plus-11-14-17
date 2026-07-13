@@ -1,1 +1,1 @@
-/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_12_Basics_Basics.dir/link.d CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -o Basics
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_12_Basics_Basics.dir/link.d CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -o Basics

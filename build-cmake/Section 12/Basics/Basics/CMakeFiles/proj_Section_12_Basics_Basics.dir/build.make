@@ -76,15 +76,15 @@ Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cp
 Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o: /home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section\ 12/Basics/Basics/Source.cpp
 Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o: Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Section 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT "Section\\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o" -MF CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o.d -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -c "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp"
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT "Section\\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o" -MF CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o.d -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.o -c "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp"
 
 Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.i"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp" > CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.i
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp" > CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.i
 
 Section\ 12/Basics/Basics/CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.s"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp" -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.s
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 12/Basics/Basics" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 12/Basics/Basics/Source.cpp" -o CMakeFiles/proj_Section_12_Basics_Basics.dir/Source.cpp.s
 
 # Object files for target proj_Section_12_Basics_Basics
 proj_Section_12_Basics_Basics_OBJECTS = \

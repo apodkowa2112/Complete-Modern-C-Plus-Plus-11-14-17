@@ -1,3 +1,5 @@
+# Force CMake to use g++ for C++ builds
+set(CMAKE_CXX_COMPILER "/usr/bin/g++" CACHE STRING "C++ compiler" FORCE)
 add_executable(proj_Section_12_Partial_Spec_Class_Template_ParSpecializatoin_Class_Template_ParSpecializatoin
   Source.cpp
 )

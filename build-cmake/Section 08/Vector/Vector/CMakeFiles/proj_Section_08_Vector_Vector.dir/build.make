@@ -76,15 +76,15 @@ Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cp
 Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o: /home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section\ 08/Vector/Vector/Source.cpp
 Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o: Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Section 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT "Section\\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o" -MF CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o.d -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o -c "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp"
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT "Section\\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o" -MF CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o.d -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.o -c "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp"
 
 Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.i"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp" > CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.i
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp" > CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.i
 
 Section\ 08/Vector/Vector/CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.s"
-	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp" -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.s
+	cd "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/build-cmake/Section 08/Vector/Vector" && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/apodkowa/develop/cpp/Complete-Modern-C-Plus-Plus-11-14-17/Section 08/Vector/Vector/Source.cpp" -o CMakeFiles/proj_Section_08_Vector_Vector.dir/Source.cpp.s
 
 # Object files for target proj_Section_08_Vector_Vector
 proj_Section_08_Vector_Vector_OBJECTS = \
