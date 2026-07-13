@@ -1,0 +1,44 @@
+# Build directories
+build/
+build-cmake/
+cmake-build-*/
+**/build/
+**/build-cmake/
+**/cmake-build-*/
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.class
+
+# Executables generated from examples
+*/main
+*/main.exe
+*/program
+*/program.exe
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.cmake
+
+# IDE/editor noise
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
