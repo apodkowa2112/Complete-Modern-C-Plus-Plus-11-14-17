@@ -1,0 +1,1 @@
+/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_13_Capture_List_CaptureList_CaptureList.dir/link.d CMakeFiles/proj_Section_13_Capture_List_CaptureList_CaptureList.dir/Source.cpp.o -o CaptureList

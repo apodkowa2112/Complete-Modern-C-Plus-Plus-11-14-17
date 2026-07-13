@@ -1,0 +1,1 @@
+/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_08_constexpr_constexpr_constexpr.dir/link.d CMakeFiles/proj_Section_08_constexpr_constexpr_constexpr.dir/Source.cpp.o -o constexpr

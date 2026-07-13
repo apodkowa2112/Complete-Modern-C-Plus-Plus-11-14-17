@@ -1,0 +1,1 @@
+/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords.dir/link.d CMakeFiles/proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords.dir/main.cpp.o -o New_Class_Keywords

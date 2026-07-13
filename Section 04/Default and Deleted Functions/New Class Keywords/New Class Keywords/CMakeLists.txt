@@ -1,0 +1,12 @@
+add_executable(proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords
+  main.cpp
+)
+
+target_include_directories(proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}")
+target_compile_features(proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords PRIVATE cxx_std_17)
+set_target_properties(proj_Section_04_Default_and_Deleted_Functions_New_Class_Keywords_New_Class_Keywords PROPERTIES
+  CXX_STANDARD 17
+  CXX_STANDARD_REQUIRED YES
+  CXX_EXTENSIONS NO
+  OUTPUT_NAME "New_Class_Keywords"
+)

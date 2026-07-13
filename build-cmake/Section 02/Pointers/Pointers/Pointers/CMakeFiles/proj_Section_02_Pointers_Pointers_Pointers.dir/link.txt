@@ -1,0 +1,1 @@
+/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_02_Pointers_Pointers_Pointers.dir/link.d CMakeFiles/proj_Section_02_Pointers_Pointers_Pointers.dir/Source.cpp.o -o Pointers

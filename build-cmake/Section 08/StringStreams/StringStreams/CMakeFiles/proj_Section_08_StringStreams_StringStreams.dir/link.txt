@@ -1,0 +1,1 @@
+/usr/bin/g++-14 -Wl,--dependency-file=CMakeFiles/proj_Section_08_StringStreams_StringStreams.dir/link.d CMakeFiles/proj_Section_08_StringStreams_StringStreams.dir/Source.cpp.o -o StringStreams
