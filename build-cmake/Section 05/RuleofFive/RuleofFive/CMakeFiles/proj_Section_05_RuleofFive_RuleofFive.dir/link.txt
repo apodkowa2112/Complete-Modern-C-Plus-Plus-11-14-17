@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/link.d CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/Integer.cpp.o CMakeFiles/proj_Section_05_RuleofFive_RuleofFive.dir/main.cpp.o -o RuleofFive

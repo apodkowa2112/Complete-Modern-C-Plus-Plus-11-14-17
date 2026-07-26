@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_04_structure_Structure_Structure.dir/link.d CMakeFiles/proj_Section_04_structure_Structure_Structure.dir/Source.cpp.o -o Structure

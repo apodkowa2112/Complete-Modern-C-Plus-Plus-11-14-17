@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/link.d CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/Car.cpp.o CMakeFiles/proj_Section_04_Static_Car_Abstraction_Car_Abstraction.dir/main.cpp.o -o Car_Abstraction

@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_12_Aliases_Aliases_Aliases.dir/link.d CMakeFiles/proj_Section_12_Aliases_Aliases_Aliases.dir/Source.cpp.o -o Aliases

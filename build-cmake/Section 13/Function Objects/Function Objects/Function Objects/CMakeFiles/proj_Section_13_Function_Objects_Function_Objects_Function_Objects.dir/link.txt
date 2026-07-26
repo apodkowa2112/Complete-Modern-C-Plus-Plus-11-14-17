@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_13_Function_Objects_Function_Objects_Function_Objects.dir/link.d CMakeFiles/proj_Section_13_Function_Objects_Function_Objects_Function_Objects.dir/Source.cpp.o -o Function_Objects

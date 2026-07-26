@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/link.d "CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Integer.cpp.o" "CMakeFiles/proj_Section_12_Variadic_Templates_-_II_Variadic_Templates_Variadic_Templates.dir/Source.cpp.o" -o Variadic_Templates
